@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "csv-parse": "^5.3.3",
     "date-fns": "^2.29.3",
     "next": "latest",
     "react": "18.2.0",
